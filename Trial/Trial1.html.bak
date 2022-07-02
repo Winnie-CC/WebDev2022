@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	
+	<script src="trial_js.js"></script>
+	<script>
+	// console.log(x);
+	</script>
+	
+	</head>
+	
+<body>
+	
+	<h1>Lecture 40</h1>
+	
+	<script>
+	// console.log("right beore body closing tag!");
+	</script>
+	
+</body>
+</html>
+
