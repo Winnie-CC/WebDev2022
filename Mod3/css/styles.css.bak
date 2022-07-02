@@ -1,0 +1,13 @@
+#nav_container{
+	background-color:#FF869E;
+}
+#brand{
+	color:white;
+}
+section {
+	padding:0% 20% 5% 20%;
+}
+#txt1{
+	background-color:#FFC4C4;
+	margin-bottom:10%;
+}
