@@ -109,7 +109,7 @@ function buildAndShowHomeHTML (categories) {
   
   $ajaxUtils.sendGetRequest(
     homeHtmlUrl,
-    function (homeHtmlUrl) {
+    function (homeHtml) {
 
       // TODO: STEP 2: Here, call chooseRandomCategory, passing it retrieved 'categories'
       // Pay attention to what type of data that function returns vs what the chosenCategoryShortName
@@ -131,7 +131,7 @@ function buildAndShowHomeHTML (categories) {
       //
       // var homeHtmlToInsertIntoMainPage = ....
 
-      var homeHtmlToInsertIntoMainPage = $dc.insertProperty(homeHtmlUrl, "short_name", chosenCategoryShortName);
+      var homeHtmlToInsertIntoMainPage = $dc.insertProperty(homeHtml, "short_name", chosenCategoryShortName);
 
       // TODO: STEP 4: Insert the produced HTML in STEP 3 into the main page
       // Use the existing insertHtml function for that purpose. Look through this code for an example
