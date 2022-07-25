@@ -2,7 +2,7 @@ Mod2 https://winnie-cc.github.io/Assignment2022/Mod2_html
 
 Mod3 https://winnie-cc.github.io/Assignment2022/Mod3/index.html
 
-Mod4 https://winnie-cc.github.io/webDev2022/Mod4/index.html
+Mod4 https://winnie-cc.github.io/WebDev2022/Mod4/index.html
 
 Mod5 https://winnie-cc.github.io/Assignment2022/Mod5/index.html
 
